@@ -6,14 +6,14 @@ I have a passion for building things. While challenging engineering problems are
 - 🔭 I’m currently working on a Fullstack Netflix Clone 
 - 🌱 I’m currently learning tailwind
 - 📫 How to reach me: https://www.linkedin.com/in/%C3%B6mer-faruk-g%C3%BCrb%C3%BCz-574553277/
-- ⚡ Fun fact: I am BFME world Champion 
+
 <!--
 
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- ⚡ Fun fact: 
 - 😄 Pronouns: ...
 
 -->
