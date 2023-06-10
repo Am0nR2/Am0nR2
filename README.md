@@ -5,7 +5,9 @@ I have a passion for building things. While challenging engineering problems are
 
 - 🔭 I’m currently working on a Fullstack Netflix Clone 
 - 🌱 I’m currently learning tailwind
-- 📫 How to reach me: https://www.linkedin.com/in/%C3%B6mer-faruk-g%C3%BCrb%C3%BCz-574553277/
+- 📫 How to reach me: www.linkedin.com/in/omerfarukgurbuz
+
+
 
 <!--
 
